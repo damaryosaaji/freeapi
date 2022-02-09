@@ -1,34 +1,29 @@
 {
-  "username": "ADM001",
-  "fullname": "Jokowi subianto",
-  "aplikasi": [
-    {
-      "id_aplikasi": "1",
-      "nama_aplikasi": "aplikasi HR",
-      "roles": [
-        {
-          "id_role": "1",
-          "nama_role": "admin"
-        },
-        {
-          "id_role": "2",
-          "nama_role": "user"
-        }
-      ]
-    },
-    {
-      "id_aplikasi": "2",
-      "nama_aplikasi": "aplikasi Keuangan",
-      "roles": [
-        {
-          "id_role": "3",
-          "nama_role": "admin"
-        },
-        {
-          "id_role": "4",
-          "nama_role": "manager"
-        }
-      ]
-    }
-  ]
+  "username": "19992008",
+  "fullname": "Jonathan James",
+  "aplikasi": [
+    {
+      "id_aplikasi": "1",
+      "nama_aplikasi": "Great Human Resources",
+      "roles": [
+        {
+          "id_role": "1",
+          "nama_role": "admin"
+        },
+        {
+          "id_role": "2",
+          "nama_role": “employee"
+        }
+      ]
+    },
+    {
+      "id_aplikasi": "2",
+      "nama_aplikasi": "Employee Finance",
+      "roles": [        {
+          "id_role": "4",
+          "nama_role": "employee"
+        }
+      ]
+    }
+  ]
 }
