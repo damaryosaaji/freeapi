@@ -1,10 +1,10 @@
 {
-  "username": "ADM001",
-  "fullname": "Jokowi subianto",
+  "username": "19992008",
+  "fullname": "Jonathan James",
   "aplikasi": [
     {
       "id_aplikasi": "1",
-      "nama_aplikasi": "aplikasi HR",
+      "nama_aplikasi": "Great Human Resources",
       "roles": [
         {
           "id_role": "1",
@@ -18,15 +18,11 @@
     },
     {
       "id_aplikasi": "2",
-      "nama_aplikasi": "aplikasi Keuangan",
+      "nama_aplikasi": "Employee Finance",
       "roles": [
         {
-          "id_role": "3",
-          "nama_role": "admin"
-        },
-        {
           "id_role": "4",
-          "nama_role": "manager"
+          "nama_role": "employee"
         }
       ]
     }
